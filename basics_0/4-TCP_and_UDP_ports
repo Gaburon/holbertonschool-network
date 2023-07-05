@@ -1,0 +1,3 @@
+#!/usr/bin/env bas
+# Listen for incoming connections
+nestat -an -p tcp
